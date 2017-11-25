@@ -1,6 +1,6 @@
 # easy-plex-media-server-in-linux
 
-This is based on the excellent Docker build https://github.com/plexinc/pms-docker and packages it with some nice conveniences to aid getting running rather quickly.
+This is based on the excellent Docker build https://github.com/plexinc/pms-docker and this repo simply re-packages it with some nice conveniences.
 
 It takes less than 5 minutes to have your Plex Server up and running!
 
